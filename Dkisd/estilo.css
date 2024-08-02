@@ -1,0 +1,25 @@
+body {
+    background:red ;
+    
+}
+.principal{
+    color: blue;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 100px;
+    margin: 20px;
+}
+.principal2{
+    color: darkgreen;
+    background-color: chartreuse;  
+    text-align: right;
+    padding: 200px 50px 200px 50px;
+    margin: 50px 100px;
+}
+.principal3{
+    color: orangered;
+    background-color: gold;
+    text-align: left;
+    padding: 25px 100px 200px 50px;
+    margin: 25px 50px 200px 100px;
+}
